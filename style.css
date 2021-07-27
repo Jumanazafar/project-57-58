@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: deeppink;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.menu{
+    list-style:none;
+    font-family: cursive;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color:snow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+.links:hover{
+    background-color: darkviolet;
+}
+p{
+    font-size:25px;
+    font-family: cursive;
+}
